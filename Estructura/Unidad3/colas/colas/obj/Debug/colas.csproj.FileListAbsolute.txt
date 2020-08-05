@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\colas\colas\bin\Debug\colas.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\colas\colas\bin\Debug\colas.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\colas\colas\bin\Debug\colas.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\colas\colas\obj\Debug\colas.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\colas\colas\obj\Debug\colas.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\colas\colas\obj\Debug\colas.pdb

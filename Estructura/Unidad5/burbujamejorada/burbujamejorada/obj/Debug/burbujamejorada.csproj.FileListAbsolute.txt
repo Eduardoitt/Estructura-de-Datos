@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\burbujamejorada\burbujamejorada\bin\Debug\burbujamejorada.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\burbujamejorada\burbujamejorada\bin\Debug\burbujamejorada.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\burbujamejorada\burbujamejorada\bin\Debug\burbujamejorada.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\burbujamejorada\burbujamejorada\obj\Debug\burbujamejorada.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\burbujamejorada\burbujamejorada\obj\Debug\burbujamejorada.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\burbujamejorada\burbujamejorada\obj\Debug\burbujamejorada.pdb

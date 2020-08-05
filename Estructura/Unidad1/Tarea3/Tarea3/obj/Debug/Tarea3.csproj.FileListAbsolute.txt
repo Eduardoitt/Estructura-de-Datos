@@ -1,0 +1,9 @@
+C:\Users\Eduardo\Desktop\Estructura\Tarea3\Tarea3\bin\Debug\Tarea3.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Tarea3\Tarea3\bin\Debug\Tarea3.exe
+C:\Users\Eduardo\Desktop\Estructura\Tarea3\Tarea3\bin\Debug\Tarea3.pdb
+C:\Users\Eduardo\Desktop\Estructura\Tarea3\Tarea3\obj\Debug\Tarea3.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Estructura\Tarea3\Tarea3\obj\Debug\Tarea3.exe
+C:\Users\Eduardo\Desktop\Estructura\Tarea3\Tarea3\obj\Debug\Tarea3.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad1\Tarea3\Tarea3\bin\Debug\Tarea3.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad1\Tarea3\Tarea3\obj\Debug\Tarea3.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad1\Tarea3\Tarea3\obj\Debug\Tarea3.pdb

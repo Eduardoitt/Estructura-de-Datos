@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\colas\livier\livier\bin\Debug\livier.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\colas\livier\livier\bin\Debug\livier.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\colas\livier\livier\bin\Debug\livier.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\colas\livier\livier\obj\Debug\livier.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\colas\livier\livier\obj\Debug\livier.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\colas\livier\livier\obj\Debug\livier.pdb

@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\Listas enlazadas\prueba\prueba\bin\Debug\prueba.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\Listas enlazadas\prueba\prueba\bin\Debug\prueba.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\Listas enlazadas\prueba\prueba\bin\Debug\prueba.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\Listas enlazadas\prueba\prueba\obj\Debug\prueba.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\Listas enlazadas\prueba\prueba\obj\Debug\prueba.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\Listas enlazadas\prueba\prueba\obj\Debug\prueba.pdb

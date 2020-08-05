@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\ordenamientoshell\ordenamientoshell\bin\Debug\ordenamientoshell.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\ordenamientoshell\ordenamientoshell\bin\Debug\ordenamientoshell.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\ordenamientoshell\ordenamientoshell\bin\Debug\ordenamientoshell.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\ordenamientoshell\ordenamientoshell\obj\Debug\ordenamientoshell.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\ordenamientoshell\ordenamientoshell\obj\Debug\ordenamientoshell.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\ordenamientoshell\ordenamientoshell\obj\Debug\ordenamientoshell.pdb

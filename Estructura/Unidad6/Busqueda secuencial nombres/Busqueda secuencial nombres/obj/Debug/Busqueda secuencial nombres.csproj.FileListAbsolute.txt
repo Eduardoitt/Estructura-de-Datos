@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Desktop\Estructura\Unidad6\Busqueda secuencial nombres\Busqueda secuencial nombres\bin\Debug\Busqueda secuencial nombres.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad6\Busqueda secuencial nombres\Busqueda secuencial nombres\bin\Debug\Busqueda secuencial nombres.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad6\Busqueda secuencial nombres\Busqueda secuencial nombres\bin\Debug\Busqueda secuencial nombres.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad6\Busqueda secuencial nombres\Busqueda secuencial nombres\obj\Debug\Busqueda secuencial nombres.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Estructura\Unidad6\Busqueda secuencial nombres\Busqueda secuencial nombres\obj\Debug\Busqueda secuencial nombres.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad6\Busqueda secuencial nombres\Busqueda secuencial nombres\obj\Debug\Busqueda secuencial nombres.pdb

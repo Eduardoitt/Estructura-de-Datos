@@ -1,0 +1,12 @@
+E:\Estructura\Unidad5\burbujasimple\burbujasimple\bin\Debug\burbujasimple.exe.config
+E:\Estructura\Unidad5\burbujasimple\burbujasimple\obj\Debug\burbujasimple.csprojResolveAssemblyReference.cache
+E:\Estructura\Unidad5\burbujasimple\burbujasimple\bin\Debug\burbujasimple.exe
+E:\Estructura\Unidad5\burbujasimple\burbujasimple\bin\Debug\burbujasimple.pdb
+E:\Estructura\Unidad5\burbujasimple\burbujasimple\obj\Debug\burbujasimple.exe
+E:\Estructura\Unidad5\burbujasimple\burbujasimple\obj\Debug\burbujasimple.pdb
+D:\Estructura\Unidad5\burbujasimple\burbujasimple\bin\Debug\burbujasimple.exe.config
+D:\Estructura\Unidad5\burbujasimple\burbujasimple\obj\Debug\burbujasimple.exe
+D:\Estructura\Unidad5\burbujasimple\burbujasimple\obj\Debug\burbujasimple.pdb
+D:\Estructura\Unidad5\burbujasimple\burbujasimple\bin\Debug\burbujasimple.exe
+D:\Estructura\Unidad5\burbujasimple\burbujasimple\bin\Debug\burbujasimple.pdb
+D:\Estructura\Unidad5\burbujasimple\burbujasimple\obj\Debug\burbujasimple.csprojResolveAssemblyReference.cache

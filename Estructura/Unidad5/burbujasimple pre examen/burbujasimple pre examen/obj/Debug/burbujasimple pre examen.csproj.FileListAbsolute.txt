@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\burbujasimple pre examen\burbujasimple pre examen\bin\Debug\burbujasimple pre examen.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\burbujasimple pre examen\burbujasimple pre examen\bin\Debug\burbujasimple pre examen.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\burbujasimple pre examen\burbujasimple pre examen\bin\Debug\burbujasimple pre examen.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\burbujasimple pre examen\burbujasimple pre examen\obj\Debug\burbujasimple pre examen.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\burbujasimple pre examen\burbujasimple pre examen\obj\Debug\burbujasimple pre examen.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\burbujasimple pre examen\burbujasimple pre examen\obj\Debug\burbujasimple pre examen.pdb

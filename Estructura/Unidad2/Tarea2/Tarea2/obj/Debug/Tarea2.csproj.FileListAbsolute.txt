@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Desktop\Estructura\Unidad2\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad2\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad2\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad2\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad2\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad2\Tarea2\Tarea2\obj\Debug\Tarea2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\Intercalacion simple\Intercalacion simple\bin\Debug\Intercalacion simple.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\Intercalacion simple\Intercalacion simple\bin\Debug\Intercalacion simple.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\Intercalacion simple\Intercalacion simple\bin\Debug\Intercalacion simple.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\Intercalacion simple\Intercalacion simple\obj\Debug\Intercalacion simple.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\Intercalacion simple\Intercalacion simple\obj\Debug\Intercalacion simple.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\Intercalacion simple\Intercalacion simple\obj\Debug\Intercalacion simple.pdb

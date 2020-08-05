@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Desktop\Estructura\Unidad6\Busqueda binaria\Busqueda binaria\bin\Debug\Busqueda binaria.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad6\Busqueda binaria\Busqueda binaria\bin\Debug\Busqueda binaria.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad6\Busqueda binaria\Busqueda binaria\bin\Debug\Busqueda binaria.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad6\Busqueda binaria\Busqueda binaria\obj\Debug\Busqueda binaria.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Estructura\Unidad6\Busqueda binaria\Busqueda binaria\obj\Debug\Busqueda binaria.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad6\Busqueda binaria\Busqueda binaria\obj\Debug\Busqueda binaria.pdb

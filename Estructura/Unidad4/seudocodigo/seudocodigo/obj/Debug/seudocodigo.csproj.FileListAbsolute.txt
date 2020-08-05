@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Desktop\Estructura\Unidad4\seudocodigo\seudocodigo\bin\Debug\seudocodigo.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad4\seudocodigo\seudocodigo\obj\Debug\seudocodigo.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Estructura\Unidad4\seudocodigo\seudocodigo\bin\Debug\seudocodigo.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad4\seudocodigo\seudocodigo\bin\Debug\seudocodigo.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad4\seudocodigo\seudocodigo\obj\Debug\seudocodigo.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad4\seudocodigo\seudocodigo\obj\Debug\seudocodigo.pdb

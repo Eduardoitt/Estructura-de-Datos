@@ -1,0 +1,12 @@
+D:\Estructura\Unidad2\Tabla de multiplicar\Tabla de multiplicar\bin\Debug\Tabla de multiplicar.exe.config
+D:\Estructura\Unidad2\Tabla de multiplicar\Tabla de multiplicar\bin\Debug\Tabla de multiplicar.exe
+D:\Estructura\Unidad2\Tabla de multiplicar\Tabla de multiplicar\bin\Debug\Tabla de multiplicar.pdb
+D:\Estructura\Unidad2\Tabla de multiplicar\Tabla de multiplicar\obj\Debug\Tabla de multiplicar.csprojResolveAssemblyReference.cache
+D:\Estructura\Unidad2\Tabla de multiplicar\Tabla de multiplicar\obj\Debug\Tabla de multiplicar.exe
+D:\Estructura\Unidad2\Tabla de multiplicar\Tabla de multiplicar\obj\Debug\Tabla de multiplicar.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad2\Tabla de multiplicar\Tabla de multiplicar\bin\Debug\Tabla de multiplicar.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad2\Tabla de multiplicar\Tabla de multiplicar\obj\Debug\Tabla de multiplicar.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad2\Tabla de multiplicar\Tabla de multiplicar\obj\Debug\Tabla de multiplicar.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad2\Tabla de multiplicar\Tabla de multiplicar\bin\Debug\Tabla de multiplicar.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad2\Tabla de multiplicar\Tabla de multiplicar\bin\Debug\Tabla de multiplicar.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad2\Tabla de multiplicar\Tabla de multiplicar\obj\Debug\Tabla de multiplicar.csprojResolveAssemblyReference.cache

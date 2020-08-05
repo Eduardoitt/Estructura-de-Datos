@@ -1,0 +1,9 @@
+C:\Users\Eduardo\Desktop\Estructura\Tarea5\Tarea5\bin\Debug\Tarea5.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Tarea5\Tarea5\bin\Debug\Tarea5.exe
+C:\Users\Eduardo\Desktop\Estructura\Tarea5\Tarea5\bin\Debug\Tarea5.pdb
+C:\Users\Eduardo\Desktop\Estructura\Tarea5\Tarea5\obj\Debug\Tarea5.exe
+C:\Users\Eduardo\Desktop\Estructura\Tarea5\Tarea5\obj\Debug\Tarea5.pdb
+C:\Users\Eduardo\Desktop\Estructura\Tarea5\Tarea5\obj\Debug\Tarea5.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Estructura\Unidad1\Tarea5\Tarea5\bin\Debug\Tarea5.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad1\Tarea5\Tarea5\obj\Debug\Tarea5.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad1\Tarea5\Tarea5\obj\Debug\Tarea5.pdb

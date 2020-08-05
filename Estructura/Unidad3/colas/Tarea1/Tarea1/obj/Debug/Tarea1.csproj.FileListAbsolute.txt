@@ -1,0 +1,15 @@
+D:\Estructura\Unidad3\colas\Tarea1\Tarea1\bin\Debug\Tarea1.exe.config
+D:\Estructura\Unidad3\colas\Tarea1\Tarea1\bin\Debug\Tarea1.exe
+D:\Estructura\Unidad3\colas\Tarea1\Tarea1\bin\Debug\Tarea1.pdb
+D:\Estructura\Unidad3\colas\Tarea1\Tarea1\obj\Debug\Tarea1.csprojResolveAssemblyReference.cache
+D:\Estructura\Unidad3\colas\Tarea1\Tarea1\obj\Debug\Tarea1.exe
+D:\Estructura\Unidad3\colas\Tarea1\Tarea1\obj\Debug\Tarea1.pdb
+E:\Estructura\Unidad3\colas\Tarea1\Tarea1\bin\Debug\Tarea1.exe.config
+E:\Estructura\Unidad3\colas\Tarea1\Tarea1\obj\Debug\Tarea1.exe
+E:\Estructura\Unidad3\colas\Tarea1\Tarea1\obj\Debug\Tarea1.pdb
+E:\Estructura\Unidad3\colas\Tarea1\Tarea1\bin\Debug\Tarea1.exe
+E:\Estructura\Unidad3\colas\Tarea1\Tarea1\bin\Debug\Tarea1.pdb
+E:\Estructura\Unidad3\colas\Tarea1\Tarea1\obj\Debug\Tarea1.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\colas\Tarea1\Tarea1\bin\Debug\Tarea1.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\colas\Tarea1\Tarea1\obj\Debug\Tarea1.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\colas\Tarea1\Tarea1\obj\Debug\Tarea1.pdb

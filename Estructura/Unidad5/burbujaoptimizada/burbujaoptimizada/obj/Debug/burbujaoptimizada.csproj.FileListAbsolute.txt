@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\burbujaoptimizada\burbujaoptimizada\bin\Debug\burbujaoptimizada.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\burbujaoptimizada\burbujaoptimizada\bin\Debug\burbujaoptimizada.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\burbujaoptimizada\burbujaoptimizada\bin\Debug\burbujaoptimizada.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\burbujaoptimizada\burbujaoptimizada\obj\Debug\burbujaoptimizada.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\burbujaoptimizada\burbujaoptimizada\obj\Debug\burbujaoptimizada.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad5\burbujaoptimizada\burbujaoptimizada\obj\Debug\burbujaoptimizada.pdb

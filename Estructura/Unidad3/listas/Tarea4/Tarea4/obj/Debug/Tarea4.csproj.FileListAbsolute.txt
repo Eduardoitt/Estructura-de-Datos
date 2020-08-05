@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\Tarea4\Tarea4\bin\Debug\Tarea4.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\Tarea4\Tarea4\obj\Debug\Tarea4.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\Tarea4\Tarea4\bin\Debug\Tarea4.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\Tarea4\Tarea4\bin\Debug\Tarea4.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\Tarea4\Tarea4\obj\Debug\Tarea4.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad3\Tarea4\Tarea4\obj\Debug\Tarea4.pdb

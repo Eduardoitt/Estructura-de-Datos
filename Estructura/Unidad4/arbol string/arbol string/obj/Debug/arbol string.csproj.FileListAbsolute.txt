@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Desktop\Estructura\Unidad4\arbol string\arbol string\bin\Debug\arbol string.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad4\arbol string\arbol string\bin\Debug\arbol string.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad4\arbol string\arbol string\bin\Debug\arbol string.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad4\arbol string\arbol string\obj\Debug\arbol string.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Estructura\Unidad4\arbol string\arbol string\obj\Debug\arbol string.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad4\arbol string\arbol string\obj\Debug\arbol string.pdb

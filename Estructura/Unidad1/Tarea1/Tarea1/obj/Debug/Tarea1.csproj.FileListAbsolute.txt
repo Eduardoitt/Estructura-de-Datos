@@ -1,0 +1,8 @@
+C:\Users\Eduardo\Desktop\Estructura\Tarea1\Tarea1\bin\Debug\Tarea1.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Tarea1\Tarea1\bin\Debug\Tarea1.exe
+C:\Users\Eduardo\Desktop\Estructura\Tarea1\Tarea1\bin\Debug\Tarea1.pdb
+C:\Users\Eduardo\Desktop\Estructura\Tarea1\Tarea1\obj\Debug\Tarea1.exe
+C:\Users\Eduardo\Desktop\Estructura\Tarea1\Tarea1\obj\Debug\Tarea1.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad1\Tarea1\Tarea1\bin\Debug\Tarea1.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad1\Tarea1\Tarea1\obj\Debug\Tarea1.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad1\Tarea1\Tarea1\obj\Debug\Tarea1.pdb

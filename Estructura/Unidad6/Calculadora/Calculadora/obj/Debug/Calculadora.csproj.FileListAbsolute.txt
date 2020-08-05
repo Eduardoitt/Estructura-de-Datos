@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Desktop\Estructura\Unidad6\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Eduardo\Desktop\Estructura\Unidad6\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad6\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Eduardo\Desktop\Estructura\Unidad6\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Estructura\Unidad6\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Eduardo\Desktop\Estructura\Unidad6\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
